@@ -1,0 +1,75 @@
+# Xcode
+build/
+DerivedData/
+*.xcworkspace
+xcuserdata/
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+.idea/
+*.moved-aside
+*.xcuserstate
+*.xcscmblueprint
+
+# SwiftPM
+.build/
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# Bundler
+.bundle/
+
+# SPM Packages
+Packages/
+
+# Swift Coverage
+*.xccovreport
+*.xccovarchive
+
+# Playground
+timeline.xctimeline
+playground.xcworkspace
+
+# App Data
+*.mobileprovision
+*.cer
+*.crt
+*.p12
+*.pfx
+
+# User settings
+.env
+.DS_Store
+
+# General
+*.swp
+*.lock
+
+# Obj-C generated
+*.hmap
+
+# Logs
+*.log
+
+# Archive folders
+*.xcarchive
+
+# Crash reports
+*.crash
+
+# Symbols
+*.dSYM
+*.dSYM.zip
+*.bcsymbolmap
+
+# SwiftPM Xcode Integration
+.xcpackage
